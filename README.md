@@ -4,7 +4,7 @@ Implementation of a consistent distributed bank system using gRPC
 # Install Dependencies
 
 ```
-   pip3 install -r requirements.txtx
+   pip3 install -r requirements.txt
 ```
 
 # Running the project:
