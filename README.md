@@ -1,4 +1,4 @@
-# distributed-bank-system-project-1
+# Gringotts - 2.0
 Implementation of a consistent distributed bank system using gRPC
 
 # Running the project:
