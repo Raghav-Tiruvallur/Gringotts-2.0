@@ -1,6 +1,12 @@
 # Gringotts - 2.0
 Implementation of a consistent distributed bank system using gRPC
 
+# Install Dependencies
+
+```
+   pip3 install -r requirements.txtx
+```
+
 # Running the project:
  1) In one terminal run:
 
